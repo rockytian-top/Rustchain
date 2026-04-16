@@ -2,9 +2,9 @@
 
 Thanks for your interest in contributing to RustChain! We pay bounties in RTC tokens for quality contributions.
 
-## First-Time Contributor Quick Guide (10 RTC Bonus)
+## First-Time Contributor Quick Guide (2 RTC Bonus)
 
-New to RustChain? Get 10 RTC for your **first merged PR** — even for small improvements:
+New to RustChain? Get 2 RTC for your **first merged PR** — even for small improvements:
 
 ### 5-Minute Wins That Count
 - Fix a typo in any `.md` file
@@ -21,7 +21,7 @@ New to RustChain? Get 10 RTC for your **first merged PR** — even for small imp
 - [ ] Commit: `git commit -m "docs: fix typo in README"`
 - [ ] Push: `git push origin fix-typo-readme`
 - [ ] Open PR on GitHub — mention "First PR" in description
-- [ ] Get 10 RTC on merge + any bounty rewards
+- [ ] Get 2 RTC on merge + any bounty rewards
 
 ### Where to Look for Quick Fixes
 | File | Common Issues |
